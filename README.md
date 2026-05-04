@@ -117,7 +117,7 @@ Attention-based ML model integrated into a secure backend API for fraud classifi
 ## 🤝 Let’s Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/ankithvijay)
-- 📧 **ankith.v@myjobsmails.com**
+- 📧 **kith.careers@gmail.com**
 
 ---
 
